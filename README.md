@@ -1,8 +1,8 @@
-# About :bowtie:
+# About :grimacing:
 
 I identify as a programmer, aspie, metalhead and math geek.
 
-# Special Interests :neckbeard:
+# Special Interests :nerd_face:
 
 - Pure mathematics (category theory, HoTT, topos theory, etc etc)
 - Complex systems, complex networks

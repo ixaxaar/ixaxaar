@@ -1,16 +1,43 @@
-### Hi there 👋
+# About
 
-<!--
-**ixaxaar/ixaxaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I identify as a programmer, aspie, metalhead and math geek.
 
-Here are some ideas to get you started:
+# Special Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pure mathematics (category theory, HoTT, topos theory, etc etc)
+- Complex systems, complex networks
+- Computational neuroscience and computational biology
+
+# Job
+
+At work I do:
+
+- Architecture
+- Data Science, ML, Deep Learning, NLP
+- Backend applications development
+- Data Engineering
+- Devops
+
+Apart from management, embedded, frontend, IOT and whatnot I do or have done in the past.
+
+# Links
+
+Social presence: https://objective.ninja/@ixaxaar
+
+Music taste: https://www.last.fm/user/vairagyam
+
+Math notes and explorations: https://monoid.space
+
+Tutorials: https://psychotic.systems
+
+Git accounts:
+
+- https://github.com/ixaxaar
+- https://gitlab.com/ixaxaar
+- https://gitlab.com/4manifold
+
+Chat:
+
+- gitter: `ixaxaar`
+- riot.im: `ixaxaar`
+- discord: `ixaxaar`

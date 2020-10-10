@@ -20,7 +20,7 @@ At work I do:
 
 Apart from management, embedded, frontend, IOT and whatnot I do or have done in the past.
 
-Currently working at: @setuhq
+Currently working at: github.com/setuhq
 Prev worked at: @lifesight @reverieinc @practo among others.
 
 # Links

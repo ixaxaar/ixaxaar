@@ -22,7 +22,10 @@ Apart from management, embedded, frontend, IOT and whatnot I do or have done in 
 
 # Links
 
-Social presence: https://objective.ninja/@ixaxaar
+Social presence: 
+
+- Mastodon: https://objective.ninja/@ixaxaar
+- Linkedin: https://www.linkedin.com/in/ixaxaar/
 
 Music taste: https://www.last.fm/user/vairagyam
 
@@ -43,3 +46,8 @@ Chat:
 - gitter: `ixaxaar`
 - riot.im: `ixaxaar`
 - discord: `ixaxaar`
+
+Other places:
+
+- ACM: `0832358`
+- AMS: `CHRSXC`

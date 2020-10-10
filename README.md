@@ -27,7 +27,12 @@ Social presence:
 - Mastodon: https://objective.ninja/@ixaxaar
 - Linkedin: https://www.linkedin.com/in/ixaxaar/
 
-Music taste: https://www.last.fm/user/vairagyam
+Music taste: 
+
+- Lastfm: https://www.last.fm/user/vairagyam
+- Spotify playlists:
+  - post-rock: https://open.spotify.com/playlist/3lVlyXWpTCLROBdz64fOn7
+  - trip-hop: https://open.spotify.com/playlist/7ctCWA5RJysv4RUh6qxT3s
 
 Math notes and explorations: https://monoid.space
 

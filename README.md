@@ -1,14 +1,14 @@
-# About
+# About :bowtie:
 
 I identify as a programmer, aspie, metalhead and math geek.
 
-# Special Interests
+# Special Interests :neckbeard:
 
 - Pure mathematics (category theory, HoTT, topos theory, etc etc)
 - Complex systems, complex networks
 - Computational neuroscience and computational biology
 
-# Job
+# Job :briefcase:
 
 At work I do:
 
@@ -24,7 +24,7 @@ Currently working at: [@setuhq](https://github.com/setuhq)
 
 Prev worked at: [@lifesight](https://github.com/lifesight) [@reverieinc](https://github.com/reverieinc) [@practo](https://github.com/practo) among others.
 
-# Links
+# Links :link:
 
 Social presence: 
 

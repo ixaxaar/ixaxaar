@@ -50,6 +50,8 @@ Git accounts:
 - https://gitlab.com/ixaxaar
 - https://gitlab.com/4manifold
 
+Steam: https://steamcommunity.com/id/4manifold/home
+
 Chat:
 
 - gitter: `ixaxaar`

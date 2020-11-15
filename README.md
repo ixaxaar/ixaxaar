@@ -44,11 +44,11 @@ Tutorials: https://psychotic.systems
 
 Git accounts:
 
-- https://github.com/ixaxaar
+- https://github.com/ixaxaar <- main
 - https://github.com/synergetics
 - https://github.com/zentiment
 - https://gitlab.com/ixaxaar
-- https://gitlab.com/4manifold
+- https://gitlab.com/4manifold <- current work account
 
 Steam: https://steamcommunity.com/id/4manifold/home
 

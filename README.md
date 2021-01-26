@@ -24,6 +24,23 @@ Currently working at: [@setuhq](https://github.com/setuhq)
 
 Prev worked at: [@lifesight](https://github.com/lifesight) [@reverieinc](https://github.com/reverieinc) [@practo](https://github.com/practo) [showt](https://www.linkedin.com/company/global-stealthco/), [magnetworks](https://www.linkedin.com/company/magnetworks-in/), [toshiba](https://www.linkedin.com/company/toshiba-americas/) and [wipro](https://www.linkedin.com/company/wipro/).
 
+## Tech Stacks :shipit:
+
+| Type | Tech | Comments |
+| --- | --- | --- |
+| Programming Languages | Python, Scala, Bash | Primary |
+| Programming Languages | Typescript, nodejs, Go, Lua, C, ARM assembly | Secondary |
+| Programming Languages | Haskell, Agda | Hobby |
+| Databases | Postgresql, Aurora, Cassandra, Mongo, Dynamo, Redis, Memcached, Aerospike, neo4j, Elasticsearch | |
+| Messaging | Kafka, RabbitMQ, SQS, SNS, ZeroMQ | |
+| Big Data | Spark, presto, athena, hive, giraph, HDFS, Parquet, Avro | |
+| ML toolkit | scikit-learn, Spark ML-lib, GraphX, networkx, numpy, pandas, jupyter | |
+| NLP toolkit | CoreNLP, NLTK, spacy, kenLM, fasttext, transformers, BERT, autoencoders, seq2seq, various neural language models | |
+| Deep Learning | pytorch, tensorflow, torch | |
+| Devops | Terraform, Kubernetes, Prometheus, ELK, Grafana | |
+| Cloud | AWS, GCP, Azure, Digitalocean, Linode | |
+| OS | I use Arch BTW 😛 | |
+
 # Links :link:
 
 Social presence: 

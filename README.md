@@ -61,11 +61,14 @@ Tutorials: https://psychotic.systems
 
 Git accounts:
 
-- https://github.com/ixaxaar <- main
-- https://github.com/synergetics
-- https://github.com/zentiment
-- https://gitlab.com/ixaxaar
-- https://gitlab.com/4manifold <- current work account
+| URL | Comments |
+| --- | --- |
+| https://github.com/ixaxaar | Social sccount |
+| https://sr.ht/~ixaxaar | Private projects |
+| https://github.com/synergetics | Computational neuroscience |
+| https://github.com/zentiment | NLP |
+| https://gitlab.com/ixaxaar | Prev jobs' account |
+| https://gitlab.com/4manifold | Current work account |
 
 Steam: https://steamcommunity.com/id/4manifold/home
 

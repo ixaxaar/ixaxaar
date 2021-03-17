@@ -29,7 +29,7 @@ Prev worked at: [@lifesight](https://github.com/lifesight) [@reverieinc](https:/
 | Type | Tech | Comments |
 | --- | --- | --- |
 | Programming Languages | Python, Scala, Bash | Primary |
-| Programming Languages | Typescript, nodejs, Go, Lua, C, ARM assembly | Secondary |
+| Programming Languages | Typescript, nodejs, Go, Rust, Lua, C, ARM assembly | Secondary |
 | Programming Languages | Haskell, Agda | Hobby |
 | Databases | Postgresql, Aurora, Cassandra, Mongo, Dynamo, Redis, Memcached, Aerospike, neo4j, Elasticsearch | |
 | Messaging | Kafka, RabbitMQ, SQS, SNS, ZeroMQ | |

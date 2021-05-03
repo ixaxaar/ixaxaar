@@ -75,7 +75,7 @@ Steam: https://steamcommunity.com/id/4manifold/home
 Contact:
 
 ```bash
-ixaxaar at disroot dot org
+genocide at cocaine dot ninja
 ```
 
 Chat:

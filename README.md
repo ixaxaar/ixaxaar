@@ -78,12 +78,6 @@ Contact:
 github at monoid dot space
 ```
 
-Chat:
-
-- gitter: `ixaxaar`
-- riot.im: `ixaxaar`
-- discord: `ixaxaar`
-
 Other places:
 
 - ACM: `0832358`

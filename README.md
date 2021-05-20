@@ -51,6 +51,20 @@ Social presence:
 Music taste: 
 
 - Lastfm: https://www.last.fm/user/vairagyam
+- Youtube music playlists:
+  - Black Metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPTp6dz8u3NpkgSzLwT3l5S4X
+  - Cosmic Black Metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPToGG3eS4_UL1owA6TogjmGr
+  - Stoner Doom: https://music.youtube.com/playlist?list=PLr8NtEL-vPToqA5Sij65p0EuhC6OXQeFT
+  - Funeral Doom: https://music.youtube.com/playlist?list=PLr8NtEL-vPTqw8WY82QmM3QORRboRQUZq
+  - Depressive Suicidal Black Metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPTqHwOAXad3L5_NBQajxMLz3
+  - Classic heavy metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPTr3nor9aTBjIcImqtJFhDRv
+  - Popular metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPTraOUJWZVVTW66zHNDfgwZR
+  - 90s rock: https://music.youtube.com/playlist?list=PLr8NtEL-vPTpxASmt0lrwbSRUI_nUtZDw
+  - trip-hop: https://music.youtube.com/playlist?list=PLr8NtEL-vPTqZ2tZp36Pvp7AkV8nM-vWz
+  - post-rock: 
+    - https://music.youtube.com/playlist?list=PLr8NtEL-vPTqraZ9A2tg1mjHpVcvhvFAG
+    - https://music.youtube.com/playlist?list=PLr8NtEL-vPToqTrtuyqd15jZM3Rcve738
+    - https://music.youtube.com/playlist?list=PLr8NtEL-vPTrONvdKDHRRDis6yKzUUc1x
 - Spotify playlists:
   - post-rock: https://open.spotify.com/playlist/3lVlyXWpTCLROBdz64fOn7
   - trip-hop: https://open.spotify.com/playlist/7ctCWA5RJysv4RUh6qxT3s

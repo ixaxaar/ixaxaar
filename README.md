@@ -20,9 +20,9 @@ At work I do:
 
 Apart from management, embedded, frontend, IOT and whatnot I do or have done in the past.
 
-Currently working at: [@setuhq](https://github.com/setuhq)
+Currently building [calculus.capital](https://github.com/calculus-capital)
 
-Prev worked at: [@lifesight](https://github.com/lifesight) [@reverieinc](https://github.com/reverieinc) [@practo](https://github.com/practo) [showt](https://www.linkedin.com/company/global-stealthco/), [magnetworks](https://www.linkedin.com/company/magnetworks-in/), [toshiba](https://www.linkedin.com/company/toshiba-americas/) and [wipro](https://www.linkedin.com/company/wipro/).
+Prev worked at: [@setuhq](https://github.com/setuhq) [@lifesight](https://github.com/lifesight) [@reverieinc](https://github.com/reverieinc) [@practo](https://github.com/practo) [showt](https://www.linkedin.com/company/global-stealthco/), [magnetworks](https://www.linkedin.com/company/magnetworks-in/), [toshiba](https://www.linkedin.com/company/toshiba-americas/) and [wipro](https://www.linkedin.com/company/wipro/).
 
 ## Tech Stacks :shipit:
 

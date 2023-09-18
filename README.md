@@ -22,7 +22,7 @@ Apart from management, embedded, frontend, IOT and whatnot I do or have done in 
 
 Currently building [geniusrise](https://github.com/geniusrise)
 
-Prev worked at: [@setuhq](https://github.com/setuhq) [@lifesight](https://github.com/lifesight) [@reverieinc](https://github.com/reverieinc) [@practo](https://github.com/practo) [showt](https://www.linkedin.com/company/global-stealthco/), [magnetworks](https://www.linkedin.com/company/magnetworks-in/), [toshiba](https://www.linkedin.com/company/toshiba-americas/) and [wipro](https://www.linkedin.com/company/wipro/).
+Prev worked at: [@jodo-tech](https://github.com/jodo-tech) [@setuhq](https://github.com/setuhq) [@lifesight](https://github.com/lifesight) [@reverieinc](https://github.com/reverieinc) [@practo](https://github.com/practo) [showt](https://www.linkedin.com/company/global-stealthco/) [magnetworks](https://www.linkedin.com/company/magnetworks-in/) [toshiba](https://www.linkedin.com/company/toshiba-americas/) and [wipro](https://www.linkedin.com/company/wipro/).
 
 ## Tech Stacks :shipit:
 

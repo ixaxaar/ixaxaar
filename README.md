@@ -8,6 +8,14 @@ I identify as a programmer, aspie, metalhead and math geek.
 - Complex systems, complex networks
 - Computational neuroscience and computational biology
 
+## Other weird stuff
+
+- HPCs, NUMA, distributed computing
+- Embedded systems & IOT
+- Occult (hence the handle)
+- Board games
+- Graphic novels (cyberpunk, dadaism, surrealism, post-apocalyptic)
+
 # Job :briefcase:
 
 At work I do:
@@ -39,41 +47,11 @@ Prev worked at: [@jodo-tech](https://github.com/jodo-tech) [@setuhq](https://git
 | Deep Learning | pytorch, tensorflow, torch | |
 | Devops | Terraform, Kubernetes, Prometheus, ELK, Grafana | |
 | Cloud | AWS, GCP, Azure, Digitalocean, Linode | |
-| OS | I use Arch BTW 😛 | |
+| OS | I use Arch BTW 😛 | Except manjaro on steam deck |
 
 # Links :link:
 
-Social presence: 
-
-- Mastodon: https://objective.ninja/@ixaxaar
-- Linkedin: https://www.linkedin.com/in/ixaxaar/
-
-Music taste: 
-
-- Lastfm: https://www.last.fm/user/vairagyam
-- Youtube music playlists:
-  - Black Metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPTp6dz8u3NpkgSzLwT3l5S4X
-  - Cosmic Black Metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPToGG3eS4_UL1owA6TogjmGr
-  - Stoner Doom: https://music.youtube.com/playlist?list=PLr8NtEL-vPToqA5Sij65p0EuhC6OXQeFT
-  - Funeral Doom: https://music.youtube.com/playlist?list=PLr8NtEL-vPTqw8WY82QmM3QORRboRQUZq
-  - Depressive Suicidal Black Metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPTqHwOAXad3L5_NBQajxMLz3
-  - Classic heavy metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPTr3nor9aTBjIcImqtJFhDRv
-  - Popular metal: https://music.youtube.com/playlist?list=PLr8NtEL-vPTraOUJWZVVTW66zHNDfgwZR
-  - 90s rock: https://music.youtube.com/playlist?list=PLr8NtEL-vPTpxASmt0lrwbSRUI_nUtZDw
-  - trip-hop: https://music.youtube.com/playlist?list=PLr8NtEL-vPTqZ2tZp36Pvp7AkV8nM-vWz
-  - post-rock: 
-    - https://music.youtube.com/playlist?list=PLr8NtEL-vPTqraZ9A2tg1mjHpVcvhvFAG
-    - https://music.youtube.com/playlist?list=PLr8NtEL-vPToqTrtuyqd15jZM3Rcve738
-    - https://music.youtube.com/playlist?list=PLr8NtEL-vPTrONvdKDHRRDis6yKzUUc1x
-- Spotify playlists:
-  - post-rock: https://open.spotify.com/playlist/3lVlyXWpTCLROBdz64fOn7
-  - trip-hop: https://open.spotify.com/playlist/7ctCWA5RJysv4RUh6qxT3s
-
-Math notes and explorations: https://monoid.space
-
-Tutorials: https://psychotic.systems
-
-Git accounts:
+## Git accounts
 
 | URL | Comments |
 | --- | --- |
@@ -81,18 +59,41 @@ Git accounts:
 | https://sr.ht/~ixaxaar | Private projects |
 | https://github.com/synergetics | Computational neuroscience |
 | https://github.com/zentiment | NLP |
-| https://gitlab.com/ixaxaar | Prev jobs' account |
-| https://gitlab.com/4manifold | Current work account |
+| https://gitlab.com/ixaxaar | Prev work account |
+| https://gitlab.com/4manifold | Prev work account |
 
-Steam: https://steamcommunity.com/id/4manifold/home
+## Social presence
 
-Contact:
+- Linkedin: https://www.linkedin.com/in/ixaxaar/
+- Steam: https://steamcommunity.com/id/4manifold/
+- Lastfm: https://www.last.fm/user/vairagyam 
+
+## Music taste
+
+### Fav genres
+
+- Black metal, ambient BM, DSBM etc
+- Death metal, technical DM
+- Other heavy metal subgenres
+- Dark ambient, drone, ritual
+- Industrial, power electronics
+- Neofolk, martial industrial
+- Neoclassical, darkwave
+- Post-rock
+- Trip-hop
+
+### Spotify playlists
+
+  - post-rock: https://open.spotify.com/playlist/3lVlyXWpTCLROBdz64fOn7
+  - trip-hop: https://open.spotify.com/playlist/7ctCWA5RJysv4RUh6qxT3s
+
+## Contact
 
 ```bash
 github at monoid dot space
 ```
 
-Other places:
+### Other places
 
 - ACM: `0832358`
 - AMS: `CHRSXC`

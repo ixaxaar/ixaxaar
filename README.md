@@ -21,12 +21,12 @@ I identify as a programmer, aspie, metalhead and math geek.
 At work I do:
 
 - Architecture
-- Data Science, ML, Deep Learning, NLP
-- Backend applications development
+- Data Science & ML
+- Backend & frontend development
 - Data Engineering
 - Devops
-
-Apart from management, embedded, frontend, IOT and whatnot I do or have done in the past.
+- Embedded systems & IOT
+- Management, mentorship etc
 
 Currently building [geniusrise](https://github.com/geniusrise)
 

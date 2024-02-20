@@ -47,7 +47,7 @@ Prev worked at: [@jodo-tech](https://github.com/jodo-tech) [@setuhq](https://git
 | Deep Learning | pytorch, tensorflow, torch | |
 | Devops | Terraform, Kubernetes, Prometheus, ELK, Grafana | |
 | Cloud | AWS, GCP, Azure, Digitalocean, Linode | |
-| OS | I use Arch BTW 😛 | Except manjaro on steam deck |
+| OS | I use Arch BTW 😛 | |
 
 # Links :link:
 

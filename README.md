@@ -84,6 +84,7 @@ Prev worked at: [@jodo-tech](https://github.com/jodo-tech) [@setuhq](https://git
 
 ### Spotify playlists
 
+  - black metal: https://open.spotify.com/playlist/4DReQXEJIoo1Aku3KZGToJ
   - post-rock: https://open.spotify.com/playlist/3lVlyXWpTCLROBdz64fOn7
   - trip-hop: https://open.spotify.com/playlist/7ctCWA5RJysv4RUh6qxT3s
 

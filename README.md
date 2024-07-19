@@ -28,9 +28,14 @@ At work I do:
 - Embedded systems & IOT
 - Management, mentorship etc
 
-Currently building [geniusrise](https://github.com/geniusrise)
+Currently EM @ [google](https://github.com/google)
 
 Prev worked at: [@jodo-tech](https://github.com/jodo-tech) [@setuhq](https://github.com/setuhq) [@lifesight](https://github.com/lifesight) [@reverieinc](https://github.com/reverieinc) [@practo](https://github.com/practo) [showt](https://www.linkedin.com/company/global-stealthco/) [magnetworks](https://www.linkedin.com/company/magnetworks-in/) [toshiba](https://www.linkedin.com/company/toshiba-americas/) and [wipro](https://www.linkedin.com/company/wipro/).
+
+Open Source:
+
+- [Geniusrise](https://github.com/geniusrise)
+- Packages on [AUR](https://aur.archlinux.org/packages?K=ixaxaar&SeB=m)
 
 ## Tech Stacks :shipit:
 

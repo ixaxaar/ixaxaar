@@ -85,19 +85,21 @@ Open Source:
 
 ## Online Artifacts
 
+### Calculus Capital
+
+- Website: https://calculus.capital/
+- Console: https://console.calculus.capital/
+
+### Geniusrise
+
+- Website: https://geniusrise.ai/
+- Website: https://geniusrise.com/
+- Website: https://genius.doctor/
+- Docs: https://docs.geniusrise.ai/
+
+### Others
+
 - https://monoid.space/
-- https://calculus.capital/
-- https://console.calculus.capital/
-
-- https://git.ixaxaar.in/
-- https://docs.ixaxaar.in/
-- https://chat.ixaxaar.in/
-
-- https://geniusrise.ai/
-- https://geniusrise.com/
-- https://docs.geniusrise.ai/
-- https://genius.doctor/
-
 - https://deployinghappiness.com/
 
 ## Contact

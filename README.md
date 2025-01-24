@@ -60,7 +60,7 @@ Open Source:
 
 | URL | Comments |
 | --- | --- |
-| https://github.com/ixaxaar | Social sccount |
+| https://github.com/ixaxaar | Social account |
 | https://sr.ht/~ixaxaar | Private projects |
 | https://github.com/synergetics | Computational neuroscience |
 | https://github.com/zentiment | NLP |
@@ -69,29 +69,36 @@ Open Source:
 
 ## Social presence
 
-- Linkedin: https://www.linkedin.com/in/ixaxaar/
 - Steam: https://steamcommunity.com/id/4manifold/
-- Lastfm: https://www.last.fm/user/vairagyam 
+- Linkedin: https://www.linkedin.com/in/ixaxaar/ (not active)
 
-## Music taste
+## Music
 
-### Fav genres
+- Lastfm: https://www.last.fm/user/vairagyam
+- Bandcamp: https://bandcamp.com/ixaxaar
 
-- Black metal, ambient BM, DSBM etc
-- Death metal, technical DM
-- Other heavy metal subgenres
-- Dark ambient, drone, ritual
-- Industrial, power electronics
-- Neofolk, martial industrial
-- Neoclassical, darkwave
-- Post-rock
-- Trip-hop
-
-### Spotify playlists
+### Playlists
 
   - black metal: https://open.spotify.com/playlist/4DReQXEJIoo1Aku3KZGToJ
   - post-rock: https://open.spotify.com/playlist/3lVlyXWpTCLROBdz64fOn7
   - trip-hop: https://open.spotify.com/playlist/7ctCWA5RJysv4RUh6qxT3s
+
+## Online Artifacts
+
+- https://monoid.space/
+- https://calculus.capital/
+- https://console.calculus.capital/
+
+- https://git.ixaxaar.in/
+- https://docs.ixaxaar.in/
+- https://chat.ixaxaar.in/
+
+- https://geniusrise.ai/
+- https://geniusrise.com/
+- https://docs.geniusrise.ai/
+- https://genius.doctor/
+
+- https://deployinghappiness.com/
 
 ## Contact
 

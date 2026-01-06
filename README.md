@@ -61,6 +61,7 @@ Open Source:
 | URL | Comments |
 | --- | --- |
 | https://github.com/ixaxaar | Social account |
+| https://github.com/lunar-lander | Vibe coded projects |
 | https://sr.ht/~ixaxaar | Private projects |
 | https://github.com/synergetics | Computational neuroscience |
 | https://github.com/zentiment | NLP |
